@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1> Lição 12 - Exemplo 3 </h1>
+<style type="text/css">
+p {font-size: 30px; font-family: arial;}
+</style>
+</head>
+<body>
+<p style="padding:10px;border:10px solid blue;">Eu consegui entender o padding e agora sei mudar a cor e espessura da borda</p>
+</body>
+</html>
