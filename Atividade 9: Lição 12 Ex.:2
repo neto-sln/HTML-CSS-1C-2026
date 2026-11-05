@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1> Lição 12 - Exemplo 2 </h1>
+<style type="text/css">
+h1 {font-size: 30px; font-family: arial;}
+h2 {font-size: 15px; font-family: courier;}
+p {font-size: 8px; font-family: "times new roman";}
+</style>
+</head>
+<body>
+<h1>Tó testando o css </h1>
+<h2>Agora sim, achei que estava dando errado mas deu tudo certo kkk </h2>
+<p>Acho que nunca vi essa fonte na vida </p>
+</body>
