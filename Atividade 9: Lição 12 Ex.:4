@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>Lição 12 - Exemplo 4</h1>
+</head>
+<body>
+<img src="linux-ubuntu.png" alt="Linux" style="float:left; width: 50p; height: auto; margin-right: 15px;"/>
+<p> Ebaaa, coloquei uma imagem do linux por meio de css, mas não consegui colocar o texto ao lado</p>
+</body>
+</html>
