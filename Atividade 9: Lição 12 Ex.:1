@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1> Lição 12 - Exemplo 1 </h1>
+</head>
+<body>
+<p style="font-size:20px;">Aeeee consegui entender o CSS 20 px</p>
+<p style="font-family:courier;">E também o que quer dizer o courier </p>
+<p style="font-size:20px; font-family:courier;">E agora eu juntei os dois em uma só  frase </p>
+</body>
+</html>
